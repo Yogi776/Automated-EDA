@@ -12,8 +12,11 @@ Exploratory data analysis (EDA) is an approach to analyze the data and find patt
 Installation:- pip install pandas-profiling
 
 -> Pandas-Profiling
+
 -> Sweetviz
+
 -> Autoviz
+
 -> D-Tale
 
 -> Pandas-Profiling:- Pandas profiling is an open-source python library that automates the EDA process and creates a detailed report. Pandas Profiling can be used easily for large datasets as it is blazingly fast and creates reports in a few seconds.
@@ -64,7 +67,8 @@ Report:-
 6) Code export
 
 
-Conclusion:
+Conclusion:-
+
 I prefer to do my EDA with self-defined functions using several python libraries. The above-discussed libraries should be used to speed up your work.
 For beginners, it is good to start doing EDA using the pandas' library and writing python code before trying these libraries, as it is more important to be equipped with the fundamental knowledge and programming practices.
 The best data auto-visualization amongst the above discussed is the DTale library, as it reports with detailed EDA, custom filters, and code export. Code export is the main highlight of this library that makes it better than others.
